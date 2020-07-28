@@ -14,6 +14,8 @@ When brought back online:
 
 - Offline entries should be added to tracker.
 
+The application is accessible under: https://calm-taiga-16513.herokuapp.com/
+
 ## User Story
 
 AS AN avid traveller
